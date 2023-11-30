@@ -4,7 +4,6 @@ import base_urls.HerOkuAppBaseUrl;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.junit.Test;
-import test_data.HerokuAppTestData;
 
 import java.util.HashMap;
 import java.util.Map;
